@@ -120,7 +120,7 @@ Emails regarding the scheduling or rescheduling of your update will be sent with
  
 - OCE: 11 AM to 9 PM
 - JPN: 10 AM to 7 PM
-- APJ: 2 PM to 8 PM
+- APJ: 3 PM to 9 PM
 - IND: 12 PM to 9 PM
 - EUR: 6 PM to 3 AM
 - GBR: 6 PM to 3 AM
